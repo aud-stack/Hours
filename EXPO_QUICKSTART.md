@@ -137,8 +137,8 @@ HoursExpo/
 
 ## Tech Stack
 
-- **Expo SDK 51** - Cross-platform framework
-- **React Native 0.74** - Native UI components
+- **Expo SDK 54** - Cross-platform framework (Latest!)
+- **React Native 0.76** - Native UI components
 - **React Navigation** - Tab + Stack navigation
 - **Expo Linear Gradient** - Accumulated light effect
 - **AsyncStorage** - Local data storage

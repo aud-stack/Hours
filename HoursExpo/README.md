@@ -81,8 +81,8 @@ npx eas build --platform ios
 
 ## Tech Stack
 
-- **Expo SDK 51**
-- **React Native 0.74**
+- **Expo SDK 54** (Latest!)
+- **React Native 0.76**
 - **React Navigation** (tabs + stack)
 - **Expo Linear Gradient** (accumulated light effect)
 - **AsyncStorage** (local data)
